@@ -1,9 +1,10 @@
 body {
-  background: #0de69d;
-
+  background-color: rgb(233, 17, 9);
+  color: rgb(17, 224, 142);
 }
-
-div {
-  width: 300px;
-  margin: 0 auto;
+h1 {
+  text-align: center;
+}
+.container {
+  text-align: center;
 }
